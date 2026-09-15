@@ -26,6 +26,7 @@ A responsive GitHub Random Repository Finder built with React and the GitHub API
 - GitHub Repository Search API
 - Vite
 
+See Demo : [https://repo-finder-seven.vercel.app/](https://repo-finder-seven.vercel.app/)
 ## Getting Started
 
 ### 1. Clone the Repository
@@ -38,4 +39,4 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 
 https://roadmap.sh/projects/github-random-repo
 
-See Live: https://repo-finder-seven.vercel.app/
+
